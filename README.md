@@ -1,5 +1,5 @@
 # Coag-Sink
-Script to calculate coagulation sink from TSI SMPS output files
+Script to calculate aerosol coagulation sink from TSI SMPS output files
 
 # Directions
 Output SMPS size distribution from Aerosol Instrument Manager as dW in comma-delimited rows
